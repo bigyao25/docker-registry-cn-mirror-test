@@ -20,6 +20,9 @@ jobs:
       - name: Test
         run: |
           registrys="
+          https://kf8xo5d3.mirror.aliyuncs.com
+          https://dockerproxy.com
+          https://ccr.ccs.tencentyun.com
           docker.io
           registry-1.docker.io
           registry.hub.docker.com
